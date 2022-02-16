@@ -1,0 +1,508 @@
+Murphy
+Lee
+7996.00
+16161.00
+40 Pinecrest Street
+Coding
+Design
+Mathematics
+5.0 4.5 3.5 3.0
+C MHF4U 99
+C SCH4U 99
+C SPH4U 98
+C SBI4U 96
+C MCV4U 98
+C ENG4U 97
+98
+M,McMaster University,Computer Science,Coding,ENG4U MCV4U 2/SCH4U/SBI4U/SPH4U/SES4U/ICS4U/TEJ4M,88,93,98,10288.79,5.00,https://laurentian.ca/program/computer-science
+M,Ryerson University,Computer Science,Coding,ENG4U MHF4U MCV4U 1/SPH4U/SCH4U/SBI4U,70,84,98,10228.93,5.00,https://www.ryerson.ca/programs/undergraduate/computer-science/
+M,University of Toronto,Mathematical Sciences,Mathematics,MHF4U MCV4U ENG4U ,80,89,98,8230.00,5.00,https://www.utm.utoronto.ca/math-cs-stats/prospective-students
+M,University of Waterloo,Software Engineering,Coding,ENG4U MHF4U MCV4U SCH4U SPH4U,80,97,100,15715.92,5.00,https://uwaterloo.ca/future-students/programs/software-engineering
+M,Brock University,Computer Science,Coding,ENG4U MHF4U MCV4U,77,87,97,10239.32,4.94,https://brocku.ca/programs/undergraduate/computer-science-and-mathematics/
+M,University of Toronto,Statistics,Mathematics,MCV4U ENG4U,82,89,96,8230.00,4.93,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/physical-mathematical-sciences
+M,University of Guelph,Mathematical Science,Mathematics,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,4.87,https://admission.uoguelph.ca/bsc/ms
+M,Ontario Tech University,Computer Science,Coding,ENG4U MHF4U 1/ICS4U/MCV4U/SPH4U,86,89,92,8617.73,4.83,https://ontariotechu.ca/programs/undergraduate/computers-and-technology/computer-science/index.php
+M,University of Guelph,Computer Science,Coding,ENG4U MCV4U,84,88,92,10608.30,4.83,https://admission.uoguelph.ca/bcomp/csci
+M,Carleton University,Statistics,Mathematics,MHF4U MCV4U,78,88,98,7947.01,4.80,https://admissions.carleton.ca/programs/mathematics/
+M,McMaster University,Actuarial & Financial Mathematics,Mathematics,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,4.80,https://future.mcmaster.ca/programs/math-stats/
+M,McMaster University,Mathematics and Statistics,Mathematics,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,4.80,https://future.mcmaster.ca/programs/math-stats/
+M,Ryerson University,Financial Mathematics,Mathematics,ENG4U MHF4U SPH4U 1/MCV4U/MDM4U,68,84,100,7760.60,4.80,https://www.ryerson.ca/programs/undergraduate/financial-mathematics/
+M,University of Toronto,Mathematics,Mathematics,MCV4U ENG4U,85,89,93,14180.00,4.80,https://artsci.calendar.utoronto.ca/section/Mathematics
+M,Wilfrid Laurier University,Financial Mathematics,Mathematics,ENG4U MHF4U MCV4U,75,90,100,7628.19,4.80,https://www.wlu.ca/programs/science/undergraduate/financial-mathematics-ba/index.html
+M,Brock University,Mathematics and Statistics,Mathematics,MHF4U MCV4U,75,83,91,8976.66,4.73,https://brocku.ca/programs/undergraduate/mathematics-and-statistics/
+M,Carleton University,Mathematics,Mathematics,MHF4U MCV4U,78,86,94,7947.01,4.67,https://admissions.carleton.ca/programs/mathematics/
+M,Queen's University,Mathematics,Mathematics,ENG4U MCV4U MHF4U,85,90,95,7714.16,4.67,https://www.queensu.ca/mathstat/
+M,Ryerson University,Mathematics & its Applications,Mathematics,ENG4U MHF4U 1/MCV4U/MDM4U 1/SPH4U/SBI4U/SCH4U,68,81,94,7760.60,4.67,https://www.ryerson.ca/programs/undergraduate/mathematics-applications/
+M,Carleton University,Industrial Design,Design,MHF4U SPH4U,75,81,87,9867.01,4.65,https://admissions.carleton.ca/programs/industrial-design/
+M,Ontario Tech University,Applied and Industrial Mathematics,Mathematics,ENG4U MHF4U 2/MCV4U/SBI4U/SCH4U/SPH4U,72,79,86,8404.06,4.60,https://ontariotechu.ca/programs/undergraduate/science/applied-and-industrial-math/index.php
+M,University of Waterloo,Applied Mathematics,Mathematics,ENG4U MHF4U MCV4U,70,94,100,7443.92,4.60,https://uwaterloo.ca/future-students/programs/applied-mathematics
+M,University of Waterloo,Biostatistics,Mathematics,ENG4U MHF4U MCV4U,82,94,100,7443.92,4.60,https://uwaterloo.ca/future-students/programs/biostatistics
+M,University of Waterloo,Combinatorics and Optimization,Mathematics,ENG4U MHF4U MCV4U,82,94,100,7443.92,4.60,https://uwaterloo.ca/future-students/programs/combinatorics-and-optimization
+M,Carleton University,Architectural Studies,Design,ENG4U SPH4U MHF4U,77,81,85,11863.01,4.59,https://admissions.carleton.ca/programs/architectural-studies/
+M,Lakehead University,Computer Science,Coding,ENG4U MHF4U 1/ICS4U/MCV4U/MDM4U,70,82,94,7452.19,4.56,https://www.lakeheadu.ca/programs/undergraduate-programs/computer-science/node/1110
+M,York University,Mathematics,Mathematics,ENG4U MCV4U MHF4U,84,87,90,7777.82,4.53,https://futurestudents.yorku.ca/program/mathematics/glendon
+M,Lakehead University,Mathematics,Mathematics,ENG4U MHF4U 1/MCV4U/MDM4U,70,82,94,7452.19,4.47,https://www.lakeheadu.ca/programs/undergraduate-programs/mathematics/node/3597
+M,Wilfrid Laurier University,Mathematics,Mathematics,ENG4U MHF4U MCV4U,75,82,89,7628.19,4.47,https://www.wlu.ca/programs/science/undergraduate/mathematics-ba/index.html
+M,Western University,Software Engineering,Coding,ENG4U MHF4U MCV4U SCH4U SPH4U,89,94,99,6140.00,4.33,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html
+M,Western University,Computer Science,Coding,ENG4U MCV4U 2/MHF4U/MDM4U/SBI4U/SCH4U/SPH4U/SES4U/ICS4U,86,91,96,6050.00,4.28,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html
+M,Trent University,Mathematical Economics,Mathematics,1/MHF4U/MCV4U,75,81,87,6118.48,3.80,https://www.trentu.ca/futurestudents/futurestudents/degree/mathematical-economics?target=undergraduate
+M,Trent University,Mathematical Physics,Mathematics,1/MHF4U/MCV4U,75,81,87,6118.48,3.80,https://www.trentu.ca/futurestudents/futurestudents/degree/mathematical-physics?target=undergraduate
+M,Trent University,Mathematics,Mathematics,1/MHF4U/MCV4U,75,81,87,6118.48,3.80,https://www.trentu.ca/futurestudents/futurestudents/degree/mathematics?target=undergraduate
+M,Carleton University,Communications Engineering,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,90,100,12887.01,2.67,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,Computer Systems Engineering,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,90,100,12887.01,2.67,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,Electrical Engineering,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,90,100,12887.01,2.67,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,Engineering Physics,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,90,100,12887.01,2.67,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,Entrepreneurship,Business,ENG4U MHF4U MCV4U,80,90,100,9867.01,2.67,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Information Systems,Technology,ENG4U MHF4U MCV4U,80,90,100,9867.01,2.67,https://admissions.carleton.ca/programs/information-systems/
+M,Carleton University,Information Resource Management (IRM),Technology,ENG4U 1/MHF4U/MCV4U/MDM4U,75,87,99,9867.01,2.67,https://admissions.carleton.ca/programs/information-technology/
+M,Carleton University,Mechanical Engineering,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,90,100,12887.01,2.67,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,Sustainable and Renewable Energy Engineering,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,90,100,12887.01,2.67,https://admissions.carleton.ca/programs/engineering/
+M,Queen's University,Computer Engineering,Technology,ENG4U MHF4U MCV4U,87,93,99,13978.35,2.67,https://www.ece.queensu.ca/
+M,Ryerson University,Aerospace Engineering,Engineering,ENG4U MHF4U MCV4U SPH4U SCH4U,70,87,100,11959.26,2.67,https://www.ryerson.ca/programs/undergraduate/aerospace-engineering/
+M,Ryerson University,Architectural Science,Engineering,ENG4U MHF4U,70,87,100,11959.26,2.67,https://www.ryerson.ca/programs/undergraduate/architectural-science/
+M,Ryerson University,Biomedical Engineering,Engineering,ENG4U MHF4U MCV4U SPH4U SCH4U,70,87,100,11959.26,2.67,https://www.ryerson.ca/programs/undergraduate/biomedical-engineering/
+M,Ryerson University,Chemical Engineering,Engineering,ENG4U MHF4U MCV4U SPH4U SCH4U,70,87,100,11959.26,2.67,https://www.ryerson.ca/programs/undergraduate/chemical-engineering-co-op/
+M,Ryerson University,Civil Engineering,Engineering,ENG4U MHF4U MCV4U SPH4U SCH4U,70,87,100,11959.26,2.67,https://www.ryerson.ca/programs/undergraduate/civil-engineering/
+M,Ryerson University,Computer Engineering,Engineering,ENG4U MHF4U MCV4U SPH4U SCH4U,70,87,100,11959.26,2.67,https://www.ryerson.ca/programs/undergraduate/computer-engineering/
+M,Ryerson University,Electrical Engineering,Engineering,ENG4U MHF4U MCV4U SPH4U SCH4U,70,87,100,11959.26,2.67,https://www.ryerson.ca/programs/undergraduate/electrical-engineering/
+M,Ryerson University,Industrial Engineering,Engineering,ENG4U MHF4U MCV4U SPH4U SCH4U,70,87,100,11959.26,2.67,https://www.ryerson.ca/programs/undergraduate/industrial-engineering/
+M,University of Toronto,Chemical Engineering,Engineering,MHF4U MCV4U SCH4U ENG4U SPH4U,87,93,99,14180.00,2.67,https://discover.engineering.utoronto.ca/programs/engineering-programs/chemical-engineering/
+M,University of Toronto,Computer Engineering,Engineering,MHF4U MCV4U SCH4U ENG4U SPH4U,90,95,100,14180.00,2.67,https://www.ece.utoronto.ca/undergraduate-students/prospective-students/program-overview/
+M,University of Toronto,Electrical Engineering,Engineering,MHF4U MCV4U SCH4U ENG4U SPH4U,92,95,98,14180.00,2.67,https://discover.engineering.utoronto.ca/programs/engineering-programs/electrical-computer-engineering/
+M,University of Toronto,Forest Conservation,Business,SBI4U ENG4U,70,89,100,15900.00,2.67,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/social-sciences
+M,University of Toronto,Geographical Information Systems,Technology,ENG4U,72,89,100,11420.00,2.67,https://utsc.utoronto.ca/admissions/programs/geography-geographical-information-science
+M,University of Toronto,International Relations,Engineering,ENG4U,74,94,100,14180.00,2.67,https://www.artsci.utoronto.ca/future/academic-opportunities/explore-our-programs
+M,University of Toronto,Materials Engineering,Engineering,MHF4U MCV4U SCH4U ENG4U SPH4U,82,94,100,14180.00,2.67,https://discover.engineering.utoronto.ca/programs/engineering-programs/materials-engineering/
+M,University of Toronto,Technology - Coding & Society,Technology,ENG4U,75,87,99,11420.00,2.67,https://www.utm.utoronto.ca/future-students/category/communication-culture-information-and-technology
+M,University of Waterloo,Architectural Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,81,93,100,10605.92,2.67,https://uwaterloo.ca/future-students/programs/architectural-engineering
+M,University of Waterloo,Architecture,The Arts,ENG4U MHF4U MCV4U SPH4U,72,93,100,10605.92,2.67,https://uwaterloo.ca/future-students/programs/architecture
+M,University of Waterloo,Biomedical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,85,94,100,15715.92,2.67,https://uwaterloo.ca/future-students/programs/biomedical-engineering
+M,University of Waterloo,Computer Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,90,94,98,15715.92,2.67,https://uwaterloo.ca/future-students/programs/computer-engineering
+M,University of Waterloo,Electrical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,78,94,100,15715.92,2.67,https://uwaterloo.ca/future-students/programs/electrical-engineering
+M,University of Waterloo,Mechanical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,80,94,100,15715.92,2.67,https://uwaterloo.ca/future-students/programs/mechanical-engineering
+M,University of Waterloo,Mechatronics Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,80,94,100,15715.92,2.67,https://uwaterloo.ca/future-students/programs/mechatronics-engineering
+M,University of Waterloo,Nanotechnology Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,76,94,100,15715.92,2.67,https://uwaterloo.ca/future-students/programs/nanotechnology-engineering
+M,University of Waterloo,Systems Design Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,83,94,100,15715.92,2.67,https://uwaterloo.ca/future-students/programs/systems-design-engineering
+M,Wilfrid Laurier University,Economics,Business,ENG4U MHF4U 1/MCV4U/MDM4U,75,90,100,10387.65,2.67,https://www.wlu.ca/programs/business-and-economics/undergraduate/economics-ba/index.html
+M,Wilfrid Laurier University,Global Studies (International Development),Business,ENG4U,73,90,100,10387.65,2.67,https://www.wlu.ca/programs/arts/undergraduate/global-studies-ba/index.html
+M,York University,Accounting,Business,MCV4U,80,90,100,10381.22,2.67,https://futurestudents.yorku.ca/program/certificates/accounting
+M,York University,Canadian Business for Internationally Educated Professionals,Business,ENG4U,74,90,100,10381.22,2.67,https://futurestudents.yorku.ca/program/certificates/canadian-business-for-internationally-educated-professionals
+M,York University,Financial Planning,Business,ENG4U MHF4U 1/MCV4U/MDM4U,76,90,100,10381.22,2.67,https://futurestudents.yorku.ca/program/financial-business-economics
+M,York University,Marketing,Business,ENG4U MCV4U MHF4U,80,90,100,10381.22,2.67,https://www.yorku.ca/laps/sas/bcom/degree-options/marketing/
+M,Queen's University,Mechanical and Materials Engineering,Engineering,MCV4U MHF4U SCH4U SPH4U,87,92,97,13978.35,2.60,https://me.queensu.ca/
+M,University of Guelph,Environmental Management,Earth Science,ENG4U SBI4U,75,86,97,8399.30,2.60,https://admission.uoguelph.ca/bbrm/em
+M,University of Guelph,Environmental Sciences,Earth Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,75,86,97,8399.30,2.60,https://admission.uoguelph.ca/BIESP
+M,Western University,Chemical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,89,93,97,12294.00,2.60,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html
+M,Western University,Civil Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,87,92,97,12294.00,2.60,https://www.eng.uwo.ca/undergraduate/programs/civil.html
+M,Western University,Electrical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,85,91,97,12294.00,2.60,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html
+M,Lakehead University,Chemical Engineering,Engineering,ENG4U MHF4U,70,82,94,9660.39,2.53,https://www.lakeheadu.ca/programs/undergraduate-programs/engineering-chemical/node/1111
+M,Lakehead University,Civil Engineering,Engineering,ENG4U MHF4U,70,82,94,9660.39,2.53,https://www.lakeheadu.ca/programs/undergraduate-programs/engineering-civil/node/3355
+M,Lakehead University,Electrical Engineering,Engineering,ENG4U MHF4U,70,82,94,9660.39,2.53,https://www.lakeheadu.ca/programs/undergraduate-programs/engineering-electrical/node/3570
+M,Lakehead University,Mechanical Engineering,Engineering,ENG4U MHF4U,70,82,94,9660.39,2.53,https://www.lakeheadu.ca/programs/undergraduate-programs/engineering-mechanical/node/3571
+M,McMaster University,Business Administration,Business,ENG4U MHF4U MCV4U,88,91,94,11816.72,2.53,https://future.mcmaster.ca/programs/business/
+M,McMaster University,Business Informatics,Business,ENG4U MHF4U MCV4U,88,91,94,11816.72,2.53,https://future.mcmaster.ca/programs/business/
+M,McMaster University,Chemical Engineering and Bioengineering,Engineering,ENG4U MCV4U SCH4U SPH4U,87,91,95,15231.61,2.53,https://future.mcmaster.ca/programs/engineering/
+M,McMaster University,Civil Engineering,Engineering,ENG4U MCV4U SCH4U SPH4U,87,91,95,15231.61,2.53,https://future.mcmaster.ca/programs/engineering/
+M,McMaster University,Computer Engineering,Engineering,ENG4U MCV4U SCH4U SPH4U,87,91,95,15231.61,2.53,https://future.mcmaster.ca/programs/engineering/
+M,McMaster University,Electrical Engineering,Engineering,ENG4U MCV4U SCH4U SPH4U,87,91,95,15231.61,2.53,https://future.mcmaster.ca/programs/engineering/
+M,McMaster University,Materials Engineering,Engineering,ENG4U MCV4U SCH4U SPH4U,87,91,95,15231.61,2.53,https://future.mcmaster.ca/programs/engineering/
+M,McMaster University,Mechanical Engineering,Engineering,ENG4U MCV4U SCH4U SPH4U,87,91,95,15231.61,2.53,https://future.mcmaster.ca/programs/engineering/
+M,McMaster University,Mechatronics Engineering,Engineering,ENG4U MCV4U SCH4U SPH4U,87,91,95,15231.61,2.53,https://future.mcmaster.ca/programs/engineering/
+M,University of Guelph,Biochemistry,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/bioc
+M,University of Guelph,Biological & Medical Physics,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/biomp
+M,University of Guelph,Biological and Pharmaceutical Chemistry,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/bpc
+M,University of Guelph,Biomedical Toxicology,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/biotox
+M,University of Guelph,Chemical Physics,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/chpy
+M,University of Guelph,Chemistry,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/chem
+M,University of Guelph,Engineering Systems and Computing,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,84,89,94,13881.14,2.53,https://admission.uoguelph.ca/beng/esc
+M,University of Guelph,Environmental Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,84,89,94,13881.14,2.53,https://admission.uoguelph.ca/beng/enve
+M,University of Guelph,Environmental Geomatics,Earth Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8399.30,2.53,https://admission.uoguelph.ca/bsc/egg
+M,University of Guelph,Government: Economics and Management,Business,ENG4U MHF4U 1/MCV4U/MDM4U,78,86,94,10725.32,2.53,https://admission.uoguelph.ca/bcom/Gem
+M,University of Guelph,Marine and Freshwater Biology,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/mfb
+M,University of Guelph,Mechanical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,84,89,94,13881.14,2.53,https://admission.uoguelph.ca/beng/me
+M,University of Guelph,Marine and Freshwater Biology,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/mfb
+M,University of Guelph,Nanoscience,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/nano
+M,University of Guelph,Physics,Research-Based Science,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,86,94,8171.02,2.53,https://admission.uoguelph.ca/bsc/phys
+M,Western University,Biomedical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,88,91,94,12294.00,2.53,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html
+M,Western University,Mechanical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,86,90,94,12294.00,2.53,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html
+M,Western University,Mechatronic Systems Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,86,90,94,12294.00,2.53,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html
+M,Wilfrid Laurier University,Business Administration,Business,ENG4U MHF4U 1/MCV4U/MDM4U,85,90,95,10387.65,2.53,https://www.wlu.ca/programs/business-and-economics/undergraduate/business-administration-bba/index.html
+M,Brock University,Business Communications,Business,ENG4U,75,84,93,10315.78,2.47,https://brocku.ca/programs/undergraduate/business-communication/
+M,Brock University,Business Economics,Business,ENG4U 1/MHF4U/MCV4U,75,84,93,10315.78,2.47,https://brocku.ca/programs/undergraduate/business-economics/
+M,Brock University,Economics, Business,ENG4U 1/MHF4U/MCV4U,75,84,93,10315.78,2.47,https://brocku.ca/programs/undergraduate/economics/
+M,Carleton University,Anthropology,Social Sciences,ENG4U,77,91,100,7947.01,2.47,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Architectural Conservation and Sustainability Engineering,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,86,92,11863.01,2.47,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,Economics,Business,ENG4U MHF4U,75,84,93,9867.01,2.47,https://admissions.carleton.ca/programs/economics/
+M,Carleton University,Interactive Multimedia and Design,Technology,MHF4U,77,85,93,9867.01,2.47,https://admissions.carleton.ca/programs/information-technology/
+M,Carleton University,Network Technology,Technology,1/MHF4U/MCV4U/MDM4U,75,84,93,9867.01,2.47,https://admissions.carleton.ca/programs/information-technology/
+M,Carleton University,Social Work,Social Sciences,ENG4U,75,84,93,8234.01,2.47,https://admissions.carleton.ca/programs/social-work/
+M,McMaster University,Automotive & Vehicle Technology,Technology,ENG4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/computer-science/
+M,McMaster University,Biochemistry,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/chemical-and-physical-sciences-gateway/
+M,McMaster University,Biotechnology,Technology,ENG4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/computer-science/
+M,McMaster University,Chemical Biology,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/ibiomed/
+M,McMaster University,Chemistry,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/chemical-and-physical-sciences-gateway/
+M,McMaster University,Earth & Environmental Science,Earth Science,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/environmental-earth-sciences-gateway/
+M,McMaster University,Economics,Business,ENG4U 2/MHF4U/MCV4U/MDM4U,80,91,100,7988.81,2.47,https://future.mcmaster.ca/programs/economics/
+M,McMaster University,Engineering Physics,Engineering,ENG4U MCV4U SCH4U SPH4U,87,90,93,15231.61,2.47,https://future.mcmaster.ca/programs/engineering/
+M,McMaster University,Environmental Sciences,Earth Science,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/environmental-earth-sciences-gateway/
+M,McMaster University,Geography & Earth Sciences,Earth Science,ENG4U 1/MHF4U/MCV4U 1/SCH4U/SBI4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/environmental-earth-sciences-gateway/
+M,McMaster University,Life Sciences,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/chemical-and-physical-sciences-gateway/
+M,McMaster University,Medical & Biological Physics,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/chemical-and-physical-sciences-gateway/
+M,McMaster University,Molecular Biology & Genetics,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://future.mcmaster.ca/programs/chemical-and-physical-sciences-gateway/
+M,McMaster University,Physics,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SPH4U,80,90,100,7988.81,2.47,https://physics.mcmaster.ca/undergraduate-studies/prospective-students.html
+M,Ontario Tech University,Communications and Digital Media Studies,Technology,ENG4U,72,82,92,8617.73,2.47,https://ontariotechu.ca/programs/undergraduate/social-science-and-humanities/communication-and-digital-media-studies/index.php
+M,Queen's University,Astrophysics,Research-Based Science,ENG4U MHF4U 2/MCV4U/SBI4U/SCH4U/SPH4U,82,90,98,7714.16,2.47,https://www.queensu.ca/physics/
+M,Queen's University,Biochemistry,Research-Based Science,MHF4U SCH4U 2/SBI4U/SPH4U/SES4U 1/MCV4U/MDM4U/ENG4U,82,90,98,7714.16,2.47,https://healthsci.queensu.ca/liscbchm/biochemistry
+M,Queen's University,Biomedical Computing,Medical Science,ENG4U MHF4U MCV4U,82,90,98,7714.16,2.47,https://www.cs.queensu.ca/undergraduate/programs/options/biomedical-computation.php
+M,Queen's University,Computing & Mathematics,Technology,ENG4U MHF4U MCV4U,82,90,98,7928.36,2.47,https://www.cs.queensu.ca/undergraduate/programs/specializations/computing-mathematics-and-analytics.php
+M,Queen's University,French Studies,World Studies,ENG4U,80,90,100,7714.16,2.47,https://www.queensu.ca/french/
+M,Queen's University,Gender Studies,Social Sciences,ENG4U,80,90,100,7714.16,2.47,https://www.queensu.ca/gnds/
+M,Queen's University,Geography,Earth Science,ENG4U,80,90,100,7714.16,2.47,https://www.queensu.ca/geographyandplanning/
+M,Queen's University,Geological Engineering,Earth Science,ENG4U MCV4U MHF4U 2/SBI4U/SCH4U/SPH4U,80,90,100,7714.16,2.47,https://www.queensu.ca/geol/
+M,Queen's University,Life Sciences,Medical Science,ENG4U MCV4U MHF4U 2/SBI4U/SCH4U/SPH4U,82,90,98,7714.16,2.47,https://healthsci.queensu.ca/liscbchm/life_sciences
+M,Queen's University,Mathematical Physics,Engineering,ENG4U MCV4U MHF4U 2/SBI4U/SCH4U/SPH4U,84,92,100,7928.36,2.47,https://www.queensu.ca/mathstat/
+M,Queen's University,Mathematics and Engineering,Engineering,MCV4U MHF4U 1/SCH4U/SPH4U,85,92,99,7928.36,2.47,https://www.queensu.ca/mathstat/undergraduate/prospective-undergraduate/mthe
+M,Ryerson University,Biology,Research-Based Science,ENG4U MHF4U 2/SPH4U/SCH4U/SBI4U,68,84,100,7760.60,2.47,https://www.ryerson.ca/programs/undergraduate/biology/
+M,Ryerson University,Biomedical Science,Medical Science,ENG4U MHF4U 2/SPH4U/SCH4U/SBI4U,70,84,98,7760.60,2.47,https://www.ryerson.ca/programs/undergraduate/biomedical-sciences/
+M,Ryerson University,Geographic Analysis,Earth Science,ENG4U,70,84,98,7760.60,2.47,https://www.ryerson.ca/programs/undergraduate/geographic-analysis/
+M,Ryerson University,Medical Physics,Medical Science,ENG4U MHF4U 2/SPH4U/SCH4U/SBI4U,68,84,100,7760.60,2.47,https://www.ryerson.ca/programs/undergraduate/medical-physics/
+M,Ryerson University,Occupational Health and Safety,Public Service,ENG4U 1/SCH4U/SBI4U,65,83,100,7760.60,2.47,https://www.ryerson.ca/programs/undergraduate/occupational-health-safety/
+M,Ryerson University,Public Health and Safety,Public Service,ENG4U 1/SPH4U/SBI4U,65,83,100,7760.60,2.47,https://www.ryerson.ca/programs/undergraduate/public-health/
+M,University of Guelph,Biological Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,85,89,93,13881.14,2.47,https://admission.uoguelph.ca/beng/bioe
+M,University of Guelph,Biomedical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,85,89,93,13881.14,2.47,https://admission.uoguelph.ca/beng/biomed
+M,University of Toronto,Biotechnology,Technology,MHF4U SBI4U MCV4U SCH4U ENG4U,85,89,93,11420.00,2.47,https://www.utm.utoronto.ca/future-students/category/life-sciences
+M,University of Waterloo,Environment and Resource Studies,Business,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,74,87,100,7779.10,2.47,https://uwaterloo.ca/future-students/programs/environment-resources-and-sustainability
+M,University of Waterloo,Environmental Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,73,94,100,7779.10,2.47,https://uwaterloo.ca/future-students/programs/environmental-engineering
+M,University of Waterloo,Fine Arts,The Arts,ENG4U,72,88,100,7779.10,2.47,https://uwaterloo.ca/future-students/programs/fine-arts
+M,Western University,Integrated Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,87,90,93,12294.00,2.47,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html
+M,York University,Educational Studies,Teaching,ENG4U,72,85,98,7777.82,2.47,https://futurestudents.yorku.ca/program/educational-studies
+M,York University,Public Policy Analysis,Law,ENG4U MHF4U 1/MCV4U/MDM4U,73,87,100,7777.82,2.47,https://www.osgoode.yorku.ca/
+M,Brock University,Public Health,Social Sciences,ENG4U 1/SCH4U/SBI4U,83,87,91,8976.66,2.40,https://brocku.ca/programs/undergraduate/public-health-aim/
+M,Carleton University,Criminology and Criminal Justice,Law,ENG4U,77,84,91,12887.01,2.40,https://admissions.carleton.ca/programs/arts/
+M,Laurentian University,Chemistry,Research-Based Science,ENG4U MHF4U 1/SCH4U/SBI4U/SPH4U,70,83,96,7604.85,2.40,https://laurentian.ca/program/chemistry
+M,Laurentian University,Criminology,Law,ENG4U,70,80,90,9983.03,2.40,https://laurentian.ca/program/criminology
+M,Laurentian University,Kinesiology,Health & Physical Education,1/ENG4U/ENG4U 1/SCH4U/SCH4M MHF4U,70,83,96,7604.85,2.40,https://laurentian.ca/program/kinesiology
+M,Ontario Tech University,Chemistry,Research-Based Science,ENG4U MHF4U 2/MCV4U/SBI4U/SCH4U/SPH4U,72,81,90,8404.06,2.40,https://ontariotechu.ca/programs/undergraduate/science/chemistry/index.php
+M,Ontario Tech University,Criminology and Justice,Law,ENG4U,72,81,90,8617.73,2.40,https://ontariotechu.ca/programs/undergraduate/social-science-and-humanities/criminology-and-justice/index.php
+M,Ontario Tech University,Data Science,Research-Based Science,ENG4U MHF4U 1/ICS4U/MCV4U/SPH4U,82,86,90,8617.73,2.40,https://ontariotechu.ca/programs/undergraduate/computers-and-technology/data-science/index.php
+M,Ontario Tech University,Health Physics and Radiation Science,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SPH4U,72,81,90,8404.06,2.40,https://ontariotechu.ca/programs/undergraduate/science/health-physics-and-radiation-science/index.php
+M,Ontario Tech University,Legal Studies,Law,ENG4U,72,81,90,8404.06,2.40,https://ontariotechu.ca/programs/undergraduate/social-science-and-humanities/legal-studies/index.php
+M,Ontario Tech University,Pharmaceutical Chemistry,Medical Science,ENG4U MHF4U 2/MCV4U/SBI4U/SCH4U/SPH4U,72,81,90,8404.06,2.40,https://ontariotechu.ca/programs/undergraduate/science/pharmaceutical-chemistry/index.php
+M,Queen's University,Electrical Engineering,Engineering,MCV4U MHF4U 1/SCH4U/SPH4U,87,92,97,7928.36,2.40,https://www.ece.queensu.ca/
+M,Queen's University,Engineering Chemistry,Engineering,ENG4U MCV4U MHF4U 2/SBI4U/SCH4U/SPH4U,87,92,97,7928.36,2.40,https://chemeng.queensu.ca/
+M,Queen's University,Engineering Physics,Engineering,ENG4U MCV4U SPH4U SCH4U MHF4U,87,92,97,7928.36,2.40,https://www.queensu.ca/physics/
+M,Queen's University,Mining Engineering,Engineering,MCV4U MHF4U SCH4U SPH4U,87,92,97,7928.36,2.40,https://mine.queensu.ca/
+M,Queen's University,Physics,Research-Based Science,ENG4U MCV4U MHF4U 2/SBI4U/SCH4U/SPH4U,83,90,97,7714.16,2.40,https://www.queensu.ca/physics/
+M,Ryerson University,Accounting & Finance,Business,ENG4U MHF4U MCV4U,75,83,91,10186.98,2.40,https://www.ryerson.ca/programs/undergraduate/accounting-finance/
+M,Ryerson University,Criminology and Social Justice,Social Sciences,ENG4U,70,83,96,7760.60,2.40,https://www.ryerson.ca/programs/undergraduate/criminology/
+M,Ryerson University,Hospitality & Tourism Management (HT001),Social Sciences,ENG4U 1/MCV4U/MHF4U/MDM4U,70,83,96,7760.60,2.40,https://www.ryerson.ca/programs/undergraduate/hospitality-tourism-management/
+M,Ryerson University,Psychology,Social Science,ENG4U,70,83,96,7760.60,2.40,https://www.ryerson.ca/programs/undergraduate/psychology/
+M,University of Guelph,Child Studies,Social Sciences,ENG4U 1/MHF4U/MCV4U/MDM4U 1/SCH4U/SBI4U/PSK4U,76,83,90,8171.02,2.40,https://admission.uoguelph.ca/basc/cstu
+M,University of Guelph,Economics,Business,ENG4U,75,83,91,10725.32,2.40,https://admission.uoguelph.ca/ba/econ
+M,University of Guelph,Political Science,Social Sciences,ENG4U,75,83,91,8171.02,2.40,https://admission.uoguelph.ca/ba/pols
+M,University of Guelph,Psychology,Social Sciences,ENG4U,75,83,91,8171.02,2.40,https://admission.uoguelph.ca/ba/psyc
+M,University of Waterloo,Environmental Science,Earth Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,79,88,97,7779.10,2.40,https://uwaterloo.ca/future-students/programs/environmental-science
+M,York University,Mechanical Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,83,87,91,13332.92,2.40,https://futurestudents.yorku.ca/program/mechanical-engineering
+M,York University,Space Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,85,88,91,13332.92,2.40,https://futurestudents.yorku.ca/program/space-engineering
+M,Brock University,Business Administration Co-op International Dobule Degree,Business,ENG4U 2/MHF4U/MCV4U/MDM4U,80,84,88,10315.78,2.33,https://brocku.ca/programs/undergraduate/business-administration-international/
+M,Brock University,Canadian Studies,World Studies,ENG4U,75,82,89,8976.66,2.33,https://brocku.ca/programs/undergraduate/canadian-studies/
+M,Carleton University,Accounting,Business,ENG4U MHF4U MCV4U,80,84,88,9867.01,2.33,https://admissions.carleton.ca/programs/commerce/
+M,Carleton University,Aerospace Engineering,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,85,90,95,7947.01,2.33,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,Biomedical and Electrical Engineering,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,85,90,95,7947.01,2.33,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,Civil Engineering,Engineering,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,84,88,12887.01,2.33,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,International Business,Business,ENG4U MHF4U MCV4U,80,84,88,9867.01,2.33,https://admissions.carleton.ca/programs/international-business/
+M,Carleton University,Marketing,Business,ENG4U MHF4U MCV4U,80,84,88,9867.01,2.33,https://admissions.carleton.ca/programs/commerce/
+M,Carleton University,Supply Chain Management,Business,ENG4U MHF4U MCV4U,80,84,88,9867.01,2.33,https://admissions.carleton.ca/programs/commerce/
+M,Lakehead University,Kinesiology,Medical Science,ENG4U 1/MHF4U/MCV4U/MDM4U 2/PSK4U/SBI4U/SCH4U/SPH4U,70,82,94,7757.19,2.33,https://www.lakeheadu.ca/programs/undergraduate-programs/kinesiology/node/1113
+M,McMaster University,Health - Aging & Society,Social Sciences,ENG4U,78,83,88,8074.70,2.33,https://future.mcmaster.ca/programs/health-and-society/
+M,Ontario Tech University,Automotive Engineering,Engineering,ENG4U MHF4U MCV4U SCH4U SPH4U,75,82,89,12397.63,2.33,https://ontariotechu.ca/programs/undergraduate/engineering/automotive-engineering/index.php
+M,Ontario Tech University,Life Sciences/Life Sciences and Management,Medical Science,ENG4U MHF4U 2/MCV4U/SBI4U/SCH4U/SPH4U,73,81,89,8404.06,2.33,https://ontariotechu.ca/programs/undergraduate/science/life-sciences/index.php
+M,Ontario Tech University,Physics,Research-Based Science,ENG4U MHF4U 2/MCV4U/SBI4U/SCH4U/SPH4U,73,81,89,8404.06,2.33,https://ontariotechu.ca/programs/undergraduate/science/physics/index.php
+M,Queen's University,History,World Studies,ENG4U,80,87,94,7714.16,2.33,https://www.queensu.ca/history/
+M,University of Guelph,Computer Engineering,Technology,ENG4U MHF4U MCV4U SCH4U SPH4U,84,86,88,10608.30,2.33,https://admission.uoguelph.ca/beng/compeng
+M,University of Guelph,Food Industry Management,Social Sciences,ENG4U MHF4U,78,83,88,8155.02,2.33,https://admission.uoguelph.ca/bbrm/fim
+M,University of Guelph,Management,Business,ENG4U MHF4U 1/MCV4U/MDM4U,78,83,88,10725.32,2.33,https://admission.uoguelph.ca/bcom/man
+M,University of Guelph,Management Economics and Finance,Business,ENG4U MHF4U 1/MCV4U/MDM4U,78,83,88,10725.32,2.33,https://admission.uoguelph.ca/bcom/mef
+M,University of Guelph,Marketing Management,Business,ENG4U MHF4U 1/MCV4U/MDM4U,78,83,88,10725.32,2.33,https://admission.uoguelph.ca/bcom/mkmn
+M,University of Guelph,Real Estate and Housing,Business,ENG4U MHF4U 1/MCV4U/MDM4U,78,83,88,10725.32,2.33,https://admission.uoguelph.ca/bcom/reh
+M,University of Guelph,Water Resources Engineering,Earth Science,ENG4U MHF4U MCV4U SCH4U SPH4U,84,86,88,8171.02,2.33,https://admission.uoguelph.ca/beng/wre
+M,Wilfrid Laurier University,Anthropology,Research-Based Science,ENG4U,70,82,94,7628.19,2.33,https://www.wlu.ca/programs/arts/undergraduate/anthropology-ba/index.html
+M,York University,Law & Social Thought,Law,ENG4U,79,87,95,7777.82,2.33,https://futurestudents.yorku.ca/program/law-society
+M,Brock University,Biochemistry,Research-Based Science,1/MHF4U/MCV4U SCH4U 2/SBI4U/SPH4U/SES4U/ENG4U,70,81,92,7751.92,2.27,https://brocku.ca/programs/undergraduate/biochemistry/
+M,Brock University,Game Design,Technology,ENG4U,78,85,92,7751.92,2.27,https://brocku.ca/programs/undergraduate/game-design/
+M,Brock University,Geography - Planning and Geographic Information Systems,World Studies,ENG4U,75,81,87,8976.66,2.27,https://brocku.ca/programs/undergraduate/human-geography/
+M,Brock University,History,World Studies,ENG4U,78,82,86,8976.66,2.27,https://brocku.ca/programs/undergraduate/history/
+M,Brock University,Sport Management,Health & Physical Education,ENG4U 1/MHF4U/MCV4U/MDM4U,77,82,87,8976.66,2.27,https://brocku.ca/programs/undergraduate/sport-management
+M,Carleton University,English,Linguistics,ENG4U,75,84,93,7947.01,2.27,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Finance,Business,ENG4U MHF4U MCV4U,82,84,86,9867.01,2.27,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,French,Linguistics,ENG4U,77,85,93,7947.01,2.27,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Media Production and Design,The Arts,ENG4U 1/MHF4U/MCV4U/MDM4U,75,81,87,9867.01,2.27,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Political Science,World Studies,ENG4U,77,82,87,9867.01,2.27,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Public Affairs and Policy Management,Social Sciences,ENG4U,86,89,92,7947.01,2.27,https://admissions.carleton.ca/programs/public-affairs-and-policy-management/
+M,Lakehead University,Business Administration,Business,ENG4U 1/MHF4U/MCV4U/MDM4U,70,78,86,8870.22,2.27,https://www.lakeheadu.ca/programs/undergraduate-programs/business/node/3456
+M,Lakehead University,Economics,Business,ENG4U 1/MHF4U/MCV4U/MDM4U,70,78,86,8870.22,2.27,https://www.lakeheadu.ca/programs/undergraduate-programs/economics/node/2957
+M,McMaster University,Chemical Engineering,Research-Based Science,ENG4U MCV4U SCH4U SPH4U,87,90,93,7988.81,2.27,https://future.mcmaster.ca/programs/ibiomed/
+M,McMaster University,Geography & Environmental Studies,Earth Science,ENG4U 1/MHF4U/MCV4U 1/SCH4U/SBI4U,80,86,92,7988.81,2.27,https://future.mcmaster.ca/programs/environmental-earth-sciences-gateway/
+M,OCAD University,Graphic Design,The Arts,ENG4U,70,89,100,7296.92,2.27,https://admissions.ocadu.ca/program/environmental-design
+M,Ontario Tech University,Astrophysics,Research-Based Science,ENG4U MHF4U 2/MCV4U/SBI4U/SCH4U/SPH4U,75,81,87,8404.06,2.27,https://ontariotechu.ca/programs/undergraduate/science/astrophysics/index.php
+M,Ontario Tech University,Biological Science,Research-Based Science,ENG4U MHF4U 2/MCV4U/SBI4U/SCH4U/SPH4U,75,81,87,8404.06,2.27,https://ontariotechu.ca/programs/undergraduate/science/biological-science/index.php
+M,Ontario Tech University,Network and Information Technology Security,Technology,ENG4U 1/MHF4U/MCV4U/MDM4U,76,81,86,8617.73,2.27,https://ontariotechu.ca/programs/college-to-university-transfer/computers-and-technology/networking-and-information-technology-security-advanced-entry/index.php
+M,Queen's University,Environmental Biology,Earth Science,ENG4U MCV4U MHF4U 2/SBI4U/SCH4U/SPH4U,82,90,98,7493.44,2.27,https://www.queensu.ca/ensc/
+M,Queen's University,Environmental Chemistry,Earth Science,ENG4U MCV4U MHF4U 2/SBI4U/SCH4U/SPH4U,82,90,98,7493.44,2.27,https://www.queensu.ca/ensc/
+M,Queen's University,Environmental Geology,Earth Science,ENG4U MCV4U MHF4U 2/SBI4U/SCH4U/SPH4U,82,90,98,7493.44,2.27,https://www.queensu.ca/ensc/
+M,Queen's University,Environmental Life Science,Earth Science,ENG4U MCV4U MHF4U 2/SBI4U/SCH4U/SPH4U,82,90,98,7493.44,2.27,https://www.queensu.ca/ensc/
+M,Queen's University,Environmental Studies,Earth Science,ENG4U MCV4U SPH4U SCH4U MHF4U,82,90,98,7493.44,2.27,https://www.queensu.ca/ensc/
+M,Queen's University,Environmental Toxicology,Earth Science,ENG4U MCV4U SPH4U SCH4U MHF4U,82,90,98,7493.44,2.27,https://www.queensu.ca/ensc/
+M,Queen's University,Music,The Arts,ENG4U,82,87,92,7714.16,2.27,https://sdm.queensu.ca/undergraduate/music/
+M,University of Guelph,Accounting,Business,ENG4U MHF4U 1/MCV4U/MDM4U,79,83,87,8171.02,2.27,https://admission.uoguelph.ca/bcom/acct
+M,University of Guelph,Food and Agricultural Business,Business,ENG4U MHF4U 1/MCV4U/MDM4U,78,82,86,10725.32,2.27,https://admission.uoguelph.ca/bcom/fab
+M,University of Guelph,Sport & Event Management,Business,ENG4U MHF4U,80,83,86,10725.32,2.27,https://admission.uoguelph.ca/bcom/spmt
+M,University of Waterloo,Anthropology,Research-Based Science,ENG4U,70,88,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/anthropology
+M,University of Waterloo,Biology,Research-Based Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,74,88,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/biology
+M,University of Waterloo,Biotechnology / Chartered Accountancy,Technology,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,78,94,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/biotechnology-accounting
+M,University of Waterloo,Chemistry,Research-Based Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,78,88,98,7443.92,2.27,https://uwaterloo.ca/future-students/programs/chemistry
+M,University of Waterloo,Classical Studies,Linguistics,ENG4U,71,91,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/classical-studies
+M,University of Waterloo,Communication Studies,Social Sciences,ENG4U,70,92,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/communication-studies
+M,University of Waterloo,Climate and Environmental Change,Earth Science,ENG4U 1/MHF4U/MCV4U/MDM4U 1/SCH4U/SPH4U,76,88,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/climate-environmental-change
+M,University of Waterloo,Computational Mathematics,Technology,ENG4U MHF4U MCV4U,85,92,99,7443.92,2.27,https://uwaterloo.ca/future-students/programs/computational-mathematics
+M,University of Waterloo,Earth Sciences,Earth Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,76,88,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/earth-sciences
+M,University of Waterloo,English,World Studies,ENG4U,70,94,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/english
+M,University of Waterloo,French,World Studies,ENG4U,76,88,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/french
+M,University of Waterloo,Geomatics,Earth Science,ENG4U 1/MCV4U/MHF4U/MDM4U,74,88,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/geomatics
+M,University of Waterloo,History,World Studies,ENG4U,73,87,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/history
+M,University of Waterloo,Information Technology Management,Technology,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,72,87,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/information-technology-management
+M,University of Waterloo,Kinesiology,Health & Physical Education,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,70,93,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/kinesiology
+M,University of Waterloo,Legal Studies,Law,ENG4U,84,93,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/legal-studies
+M,University of Waterloo,Materials and Nanosciences,Research-Based Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,73,87,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/materials-and-nanosciences
+M,University of Waterloo,Mathematical Physics,Research-Based Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,83,91,99,7443.92,2.27,https://uwaterloo.ca/future-students/programs/mathematical-physics
+M,University of Waterloo,Mathematics Teaching Option,Teaching,MHF4U MCV4U ENG4U,72,94,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/waterloo-math-teaching
+M,University of Waterloo,Music,The Arts,ENG4U,74,88,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/music
+M,University of Waterloo,Philosophy,Social Sciences,ENG4U,72,86,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/philosophy
+M,University of Waterloo,Psychology,Research-Based Science,ENG4U,75,88,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/psychology-arts
+M,University of Waterloo,Public Health,Public Service,ENG4U 1/MHF4U/MCV4U/MDM4U,72,90,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/public-health
+M,University of Waterloo,Social Development Studies,Social Sciences,ENG4U,73,87,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/social-development-studies
+M,University of Waterloo,Sociology,Social Sciences,ENG4U,74,86,98,7443.92,2.27,https://uwaterloo.ca/future-students/programs/sociology
+M,University of Waterloo,Theatre and Performance,The Arts,ENG4U,72,88,100,7443.92,2.27,https://uwaterloo.ca/future-students/programs/theatre-performance
+M,York University,Astronomy,Space Sciences,ENG4U SPH4U MHF4U MCV4U SCH4U,74,83,92,7777.82,2.27,https://www.yorku.ca/science/physics/
+M,Brock University,Concurrent Teacher Education (Intermediate/Senior) - Bachelor of Education,Teaching,ENG4U,85,88,91,7751.92,2.20,https://brocku.ca/programs/undergraduate/concurrent-education-intermediatesenior-grades-7-12/
+M,Brock University,Psychology,Social Sciences,ENG4U,83,87,91,7751.92,2.20,https://brocku.ca/programs/undergraduate/psychology/
+M,Brock University,Studies in Arts and Culture,The Arts,ENG4U,75,83,91,7751.92,2.20,https://brocku.ca/programs/undergraduate/studies-in-arts-and-culture/
+M,Carleton University,Biochemistry,Research-Based Science,MHF4U 2/SCH4U/SB13U/SPH4U/SES4U,78,84,90,7947.01,2.20,https://admissions.carleton.ca/programs/science/
+M,Carleton University,Bioinformatics,Research-Based Science,MHF4U 2/SCH4U/SB13U/SPH4U/SES4U,78,84,90,7947.01,2.20,https://admissions.carleton.ca/programs/science/
+M,Carleton University,Biology,Research-Based Science,MHF4U 2/SCH4U/SB13U/SPH4U/SES4U,78,84,90,7947.01,2.20,https://admissions.carleton.ca/programs/science/
+M,Carleton University,Chemistry,Research-Based Science,MHF4U 2/SCH4U/SB13U/SPH4U/SES4U,78,84,90,7947.01,2.20,https://admissions.carleton.ca/programs/science/
+M,Carleton University,Cognitive Science,Research-Based Science,ENG4U,77,84,91,7947.01,2.20,https://admissions.carleton.ca/programs/cognitive-science/
+M,Carleton University,European and Russian Studies,Linguistics,ENG4U,77,84,91,7947.01,2.20,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Geography,World Studies,ENG4U,77,84,91,7947.01,2.20,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Geomatics,Research-Based Science,MHF4U MCV4U 2/SCH4U/SB13U/SPH4U/SES4U,78,84,90,7947.01,2.20,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Sociology,Social Sciences,ENG4U,77,84,91,7947.01,2.20,https://admissions.carleton.ca/programs/arts/
+M,Lakehead University,Concurrent - Education,Teaching,ENG4U,70,80,90,7957.90,2.20,https://www.lakeheadu.ca/programs/undergraduate-programs/education-concurrent/node/3437
+M,Laurentian University,Biology,Research-Based Science,ENG4U MHF4U 1/SCH4U/SBI4U/SPH4U,70,80,90,7604.85,2.20,https://laurentian.ca/program/biology
+M,Laurentian University,Mechanical Engineering,Engineering,1/ENG4U/ENG4M MHF4U SCH4U SPH4U,75,80,85,9983.03,2.20,https://laurentian.ca/program/mechanical-engineering
+M,Laurentian University,Mining Engineering,Engineering,1/ENG4U/ENG4M MHF4U SCH4U SPH4U,75,80,85,9983.03,2.20,https://laurentian.ca/program/mining-engineering
+M,McMaster University,Biomedical Engineering,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SBI4U SPH4U,90,90,90,7988.81,2.20,https://future.mcmaster.ca/programs/chemical-and-physical-sciences-gateway/
+M,Ontario Tech University,Forensic Psychology,Social Sciences,ENG4U,72,78,84,8404.06,2.20,https://ontariotechu.ca/programs/undergraduate/social-science-and-humanities/forensic-psychology/index.php
+M,Ontario Tech University,Marketing,Business,ENG4U 1/MHF4U/MCV4U/MDM4U,72,78,84,10448.62,2.20,https://ontariotechu.ca/programs/undergraduate/business/marketing/index.php
+M,Ontario Tech University,Organizational Behaviour and Human Resources Management,Social Sciences,ENG4U 1/MHF4U/MCV4U/MDM4U,72,78,84,8404.06,2.20,https://ontariotechu.ca/programs/undergraduate/business/organizational-behaviour-and-human-resources-management/index.php
+M,Ontario Tech University,Political Science,Social Sciences,ENG4U,72,78,84,8404.06,2.20,https://ontariotechu.ca/programs/undergraduate/social-science-and-humanities/political-science/index.php
+M,Queen's University,Art History,The Arts,ENG4U,82,86,90,7714.16,2.20,https://www.queensu.ca/art/art-history
+M,Queen's University,Computing & the Creative Arts,The Arts,ENG4U MHF4U MCV4U,82,86,90,7714.16,2.20,https://www.cs.queensu.ca/undergraduate/programs/specializations/computing-and-the-creative-arts.php
+M,Queen's University,Drama,The Arts,ENG4U,82,86,90,7714.16,2.20,https://sdm.queensu.ca/undergraduate/drama/
+M,Queen's University,English Language & Literature,World Studies,ENG4U,82,86,90,7928.36,2.20,https://www.queensu.ca/english/
+M,Queen's University,Political Studies,Social Sciences,ENG4U,82,86,90,7714.16,2.20,https://www.queensu.ca/politics/
+M,Queen's University,Software Design,Technology,MCV4U MHF4U 2/SCH4U/SPH4U/ICS4U,82,86,90,7928.36,2.20,https://www.cs.queensu.ca/undergraduate/programs/specializations/software-design.php
+M,University of Guelph,Food Science,Health & Physical Education,ENG4U MHF4U 2/SCH4U/SBI4U/SPH4U,78,81,84,8171.02,2.20,https://admission.uoguelph.ca/bsc/food
+M,University of Waterloo,Data Science,Research-Based Science,ENG4U MHF4U MCV4U,79,88,97,7443.92,2.20,https://uwaterloo.ca/future-students/programs/data-science
+M,University of Waterloo,Gender and Social Justics,Social Sciences,ENG4U,70,83,96,7443.92,2.20,https://uwaterloo.ca/future-students/programs/gender-and-social-justice
+M,University of Waterloo,Medicinal Chemistry,Medical Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,79,88,97,7443.92,2.20,https://uwaterloo.ca/future-students/programs/medicinal-chemistry
+M,University of Waterloo,Political Science,Social Sciences,ENG4U,80,88,96,7443.92,2.20,https://uwaterloo.ca/future-students/programs/political-science
+M,Wilfrid Laurier University,Archaeology and Heritage Studies,World Studies,ENG4U,70,80,90,7628.19,2.20,https://www.wlu.ca/programs/arts/undergraduate/archaeology-and-heritage-studies-ba/index.html
+M,Wilfrid Laurier University,Geography & Geomatics,Earth Science,ENG4U,73,82,91,7628.19,2.20,https://www.wlu.ca/programs/science/undergraduate/geography-ba/index.html
+M,York University,Geomatics Engineering,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SPH4U,74,82,90,7777.82,2.20,https://futurestudents.yorku.ca/program/geomatic-engineering
+M,Brock University,Dramatic Literature,The Arts,ENG4U,78,83,88,7751.92,2.13,https://brocku.ca/programs/undergraduate/dramatic-arts/
+M,Brock University,Political Science,Social Sciences,ENG4U,78,83,88,7751.92,2.13,https://brocku.ca/programs/undergraduate/political-science/
+M,Carleton University,Environmental Engineering,Earth Science,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,84,88,7947.01,2.13,https://admissions.carleton.ca/programs/engineering/
+M,Carleton University,Global Politics,World Studies,ENG4U,75,82,89,7947.01,2.13,https://admissions.carleton.ca/programs/global-international-studies/
+M,Carleton University,Psychology,Social Sciences,ENG4U,75,82,89,7947.01,2.13,https://admissions.carleton.ca/programs/arts/
+M,Lakehead University,Bioinformatics,Research-Based Science,ENG4U MHF4U SCH4U SBI4U,70,82,94,7452.19,2.13,https://www.lakeheadu.ca/programs/undergraduate-programs/bioinformatics/node/3364
+M,Lakehead University,Biology,Research-Based Science,ENG4U MHF4U SCH4U 1/MCV4U/MDM4U/SBI4U/SPH4U,70,82,94,7452.19,2.13,https://www.lakeheadu.ca/programs/undergraduate-programs/biology/node/3362
+M,Lakehead University,Chemistry,Research-Based Science,ENG4U MHF4U SCH4U 1/MCV4U/MDM4U/SBI4U/SPH4U,70,82,94,7452.19,2.13,https://www.lakeheadu.ca/programs/undergraduate-programs/chemistry/node/2709
+M,Lakehead University,Environmental Sustainability,Earth Science,ENG4U,70,82,94,7452.19,2.13,https://www.lakeheadu.ca/programs/undergraduate-programs/environmental-sustainability/node/3358
+M,Lakehead University,Forestry,Earth Science,ENG4U 3/CGO4M/CGR4M/CGU4M/CGW4U/ICS4U/MCV4U/MDM4U/MHF4U/SBI4U/SCH4U/SPH4U,70,82,94,7452.19,2.13,https://www.lakeheadu.ca/programs/undergraduate-programs/forestry/node/3579
+M,Lakehead University,Geography,Earth Sciece,ENG4U,70,82,94,7452.19,2.13,https://www.lakeheadu.ca/programs/undergraduate-programs/geography/node/3357
+M,Lakehead University,Nursing,Medical Science,ENG4U SCH4U SBI4U 1/MHF4U/MCV4U/MDM4U,70,82,94,7452.19,2.13,https://www.lakeheadu.ca/programs/undergraduate-programs/nursing/node/1571
+M,Lakehead University,Physics,Research-Based Science,ENG4U MHF4U 2/MCV4U/MDM4U/SCH4U/SBI4U/SPH4U/SES4U,70,82,94,7452.19,2.13,https://www.lakeheadu.ca/programs/undergraduate-programs/physics/node/3361
+M,Laurentian University,Sport Psychology,Health & Physical Education,ENG4U,75,82,89,7604.85,2.13,https://laurentian.ca/program/sport-psychology
+M,McMaster University,Anthropology,Social Sciences,ENG4U,78,83,88,7988.81,2.13,https://future.mcmaster.ca/programs/health-sciences/
+M,McMaster University,Environment and Society,Social Sciences,ENG4U,78,83,88,7988.81,2.13,https://future.mcmaster.ca/programs/health-and-society/
+M,McMaster University,Labour Studies,Social Sciences,ENG4U,78,83,88,7988.81,2.13,https://future.mcmaster.ca/programs/health-and-society/
+M,McMaster University,Political Science,Social Sciences,ENG4U,78,83,88,7988.81,2.13,https://future.mcmaster.ca/programs/health-sciences/
+M,McMaster University,Psychology,Social Sciences,ENG4U,78,83,88,7988.81,2.13,https://future.mcmaster.ca/programs/health-sciences/
+M,McMaster University,Sociology,Social Sciences,ENG4U,78,83,88,7988.81,2.13,https://sociology.mcmaster.ca/future-students
+M,Ontario Tech University,Digital Media,The Arts,ENG4U MHF4U 1/ICS4U/MCV4U/SPH4U,76,79,82,8404.06,2.13,https://ontariotechu.ca/programs/undergraduate/computers-and-technology/digital-media/index.php
+M,Ontario Tech University,Finance,Business,ENG4U 1/MHF4U/MCV4U/MDM4U,74,78,82,10448.62,2.13,https://ontariotechu.ca/programs/undergraduate/business/finance/index.php
+M,Ontario Tech University,Game Development and Interactive Media,Technology,ENG4U 1/MHF4U/MCV4U/MDM4U,80,81,82,8617.73,2.13,https://ontariotechu.ca/programs/undergraduate/computers-and-technology/information-technology-game-development-and-interactive-media/index.php
+M,University of Waterloo,Health Sciences,Medical Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,80,87,94,7443.92,2.13,https://uwaterloo.ca/future-students/programs/health-sciences
+M,University of Waterloo,Life Physics,Research-Based Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,79,87,95,7443.92,2.13,https://uwaterloo.ca/future-students/programs/life-physics
+M,Wilfrid Laurier University,Biochemistry and Biotechnology,Research-Based Science,ENG4U MHF4U SBI4U SCH4U,75,82,89,7628.19,2.13,https://www.wlu.ca/programs/science/undergraduate/biochemistry-biotechnology-bsc/index.html
+M,Wilfrid Laurier University,Biology,Research-Based Science,ENG4U SBI4U,75,82,89,7628.19,2.13,https://www.wlu.ca/programs/science/undergraduate/biology-bsc/index.html
+M,Wilfrid Laurier University,Chemistry,Research-Based Science,ENG4U MHF4U MCV4U SCH4U,75,82,89,7628.19,2.13,https://www.wlu.ca/programs/science/undergraduate/chemistry-bsc/index.html
+M,Wilfrid Laurier University,Environmental Studies,Earth Science,ENG4U MHF4U MCV4U SBI4U,75,82,89,7628.19,2.13,https://www.wlu.ca/programs/science/undergraduate/environmental-studies-ba/index.html
+M,York University,Gender & Women’s Studies,Social Sciences,ENG4U,70,79,88,7777.82,2.13,https://futurestudents.yorku.ca/program/gender-womens-studies/laps
+M,York University,Rehabilitation Services,Public Service,ENG4U,70,79,88,7777.82,2.13,https://futurestudents.yorku.ca/program/certificates/rehabilitation-services
+M,Brock University,Chemistry,Research-Based Science,1/MHF4U/MCV4U SCH4U 2/SBI4U/SPH4U/SES4U/ENG4U,75,81,87,7751.92,2.07,https://brocku.ca/programs/undergraduate/chemistry/
+M,Brock University,Earth Sciences,Earth Science,ENG4U 1/MHF4U/MCV4U 2/SCH4U/SBI4U/SPH4U/SES4U,75,81,87,7751.92,2.07,https://brocku.ca/programs/undergraduate/earth-sciences/
+M,Brock University,Film Studies,The Arts,ENG4U,75,81,87,7751.92,2.07,https://brocku.ca/programs/undergraduate/film-studies/
+M,Brock University,Neuroscience,Research-Based Science,1/MHF4U/MCV4U SCH4U 2/SBI4U/SPH4U/SES4U/ENG4U,75,81,87,7751.92,2.07,https://brocku.ca/programs/undergraduate/neuroscience/
+M,Brock University,Physics,Research-Based Science,1/MHF4U/MCV4U SCH4U 2/SBI4U/SPH4U/SES4U/ENG4U,75,81,87,7751.92,2.07,https://brocku.ca/programs/undergraduate/physics/
+M,Brock University,Popular Culture,Social Sciences,ENG4U,75,81,87,7751.92,2.07,https://brocku.ca/programs/undergraduate/popular-culture/
+M,Carleton University,Applied Physics,Research-Based Science,MHF4U MCV4U 1/SCH4U/SB13U/SPH4U/SES4U,82,84,86,7947.01,2.07,https://admissions.carleton.ca/programs/science/
+M,Carleton University,Earth Sciences,Earth Science,MHF4U MCV4U 2/SCH4U/SB13U/SPH4U/SES4U,82,84,86,7947.01,2.07,https://admissions.carleton.ca/programs/science/
+M,Carleton University,History,World Studies,ENG4U,75,81,87,7947.01,2.07,https://admissions.carleton.ca/programs/arts/
+M,Carleton University,Physical Geography,Research-Based Science,MHF4U MCV4U 2/SCH4U/SB13U/SPH4U/SES4U,82,84,86,7947.01,2.07,https://admissions.carleton.ca/programs/science/
+M,OCAD University,Advertising,Business,ENG4U,70,81,92,7296.92,2.07,https://admissions.ocadu.ca/program/advertising
+M,Queen's University,Kinesiology,Health & Physical Education,MHF4U 2/SBI4U/SCH4U/SPH4U,85,86,87,7511.12,2.07,https://skhs.queensu.ca/
+M,Queen's University,Languages & Literatures & Cultures,World Studies,ENG4U,85,86,87,7714.16,2.07,https://www.queensu.ca/llcu/home
+M,University of Waterloo,Accounting and Financial Management,Business,MHF4U MCV4U,70,90,100,17473.92,2.07,https://uwaterloo.ca/future-students/programs/accounting-and-financial-management
+M,University of Waterloo,Biochemistry,Research-Based Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,83,88,93,7443.92,2.07,https://uwaterloo.ca/future-students/programs/biochemistry
+M,University of Waterloo,Business Administration and Computer Science,Business,ENG4U MHF4U MCV4U,70,94,100,17473.92,2.07,https://uwaterloo.ca/future-students/programs/business-administration-computer-science-double-degree
+M,University of Waterloo,Economics,Business,ENG4U,76,87,98,17473.92,2.07,https://uwaterloo.ca/future-students/programs/economics
+M,University of Waterloo,Environment and Business,Business,ENG4U 1/MHF4U/MCV4U/MDM4U 1/SCH4U/SPH4U,75,87,99,17473.92,2.07,https://uwaterloo.ca/future-students/programs/environment-and-business
+M,University of Waterloo,Global Business and Digital Arts,Business,ENG4U,72,87,100,17473.92,2.07,https://uwaterloo.ca/future-students/programs/global-business-and-digital-arts
+M,University of Waterloo,Mathematical Economics,Business,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,73,93,100,17473.92,2.07,https://uwaterloo.ca/future-students/programs/mathematical-economics
+M,University of Waterloo,Mathematical Finance,Business,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,76,93,100,17473.92,2.07,https://uwaterloo.ca/future-students/programs/mathematical-finance
+M,University of Waterloo,Mathematical Optimization (Business Specialization),Business,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,76,92,100,17473.92,2.07,https://uwaterloo.ca/future-students/programs/mathematical-optimization
+M,University of Waterloo,Mathematics / Business Administration,Business,MHF4U MCV4U ENG4U,73,94,100,17473.92,2.07,https://uwaterloo.ca/future-students/programs/mathematics-business-administration
+M,University of Waterloo,Recreation and Leisure Studies,Business,ENG4U,70,87,100,17473.92,2.07,https://uwaterloo.ca/future-students/programs/recreation-and-leisure-studies
+M,University of Waterloo,Recreation and Sport Business,Business,ENG4U,70,87,100,17473.92,2.07,https://uwaterloo.ca/future-students/programs/recreation-and-sport-business
+M,University of Waterloo,Science & Aviation,Research-Based Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,83,88,93,7443.92,2.07,https://uwaterloo.ca/future-students/programs/science-and-aviation
+M,University of Waterloo,Statistics,Business,ENG4U MCV4U ENG4U ,78,88,98,17473.92,2.07,https://uwaterloo.ca/future-students/programs/statistics
+M,Wilfrid Laurier University,Cultural Studies,World Studies,ENG4U,73,80,87,7628.19,2.07,https://www.wlu.ca/programs/arts/undergraduate/cultural-studies-ba/index.html
+M,Wilfrid Laurier University,French,World Studies,ENG4U,73,80,87,7628.19,2.07,https://www.wlu.ca/programs/arts/undergraduate/french-ba/index.html
+M,Wilfrid Laurier University,History,World Studies,ENG4U,73,80,87,7628.19,2.07,https://www.wlu.ca/programs/liberal-arts/undergraduate/history-ba/index.html
+M,Wilfrid Laurier University,Languages & Literature,Linguistics,ENG4U,73,80,87,7628.19,2.07,https://www.wlu.ca/programs/arts/undergraduate/languages-ba/index.html
+M,Wilfrid Laurier University,Philosophy & Politics & Economics,Social Science,ENG4U,73,80,87,7628.19,2.07,https://www.wlu.ca/programs/arts/undergraduate/political-science-ba/index.html
+M,Wilfrid Laurier University,Sociology,Social Science,ENG4U,73,80,87,7628.19,2.07,https://www.wlu.ca/programs/arts/undergraduate/sociology-ba/index.html
+M,Wilfrid Laurier University,User Experience Design (UX),The Arts,ENG4U,73,80,87,7628.19,2.07,https://www.wlu.ca/programs/liberal-arts/undergraduate/user-experience-design-bdes/index.html
+M,York University,Digital Media,The Arts,ENG4U,72,79,86,7777.82,2.07,https://futurestudents.yorku.ca/program/digital-media/lassonde
+M,York University,East Asian Studies,Social Sciences,ENG4U,72,79,86,7777.82,2.07,https://futurestudents.yorku.ca/program/east-asian-studies
+M,York University,English Studies,Linguistics,ENG4U,75,81,87,7777.82,2.07,https://futurestudents.yorku.ca/program/english-studies
+M,York University,Physics & Astronomy,Space Science,ENG4U MHF4U MCV4U SCH4U SPH4U,78,82,86,7777.82,2.07,https://futurestudents.yorku.ca/program/physics-astronomy
+M,York University,Proficiency in Spanish for Business & Personal Communication,Linguistics,ENG4U,71,79,87,7777.82,2.07,https://www.yorku.ca/laps/dlll/sp/
+M,Brock University,Biotechnology,Technology,1/MHF4U/MCV4U SCH4U 2/SBI4U/SPH4U/SES4U/ENG4U,78,81,84,7751.92,2.00,https://brocku.ca/programs/undergraduate/biotechnology/
+M,Brock University,Computing and Business,Technology,ENG4U MHF4U 1/MCV4U/MDM4U,77,81,85,7751.92,2.00,https://brocku.ca/programs/undergraduate/computing-and-business/
+M,Brock University,Computing and Network Communications,Technology,ENG4U 1/MHF4U/MCV4U,77,81,85,7751.92,2.00,https://brocku.ca/programs/undergraduate/computing-and-network-communications/
+M,Brock University,Oenology and Viticulture,Research-Based Science,1/MHF4U/MCV4U SCH4U 2/SBI4U/SPH4U/SES4U/ENG4U,77,81,85,7751.92,2.00,https://brocku.ca/programs/undergraduate/oenology-and-viticulture/
+M,Carleton University,Communications and Media Studies,The Arts,ENG4U,77,81,85,7947.01,2.00,https://admissions.carleton.ca/programs/communication-media-studies/
+M,OCAD University,Digital Futures Initiative,Technology,ENG4U,70,80,90,7296.92,2.00,https://admissions.ocadu.ca/program/digital-futures
+M,OCAD University,Industrial Design,Engineering,ENG4U,70,80,90,7296.92,2.00,https://admissions.ocadu.ca/program/industrial-design
+M,University of Waterloo,Biomedical Sciences,Medical Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,85,88,91,7443.92,2.00,https://uwaterloo.ca/future-students/programs/biomedical-sciences
+M,University of Waterloo,Science & Business,Business,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,80,88,96,17473.92,2.00,https://uwaterloo.ca/future-students/programs/science-and-business
+M,Wilfrid Laurier University,Philosophy,Social Science,ENG4U,75,80,85,7628.19,2.00,https://www.wlu.ca/programs/arts/undergraduate/philosophy-ba/index.html
+M,Wilfrid Laurier University,Psychology,Social Science,ENG4U MHF4U,75,80,85,7628.19,2.00,https://www.wlu.ca/programs/human-and-social-sciences/undergraduate/psychology-ba/index.html
+M,York University,Art History,The Arts,ENG4U,73,79,85,7777.82,2.00,https://futurestudents.yorku.ca/program/art-history
+M,York University,Communications Studies,The Arts,ENG4U,74,79,84,7777.82,2.00,https://futurestudents.yorku.ca/program/communications
+M,York University,Disaster and Emergency Management,Public Service,ENG4U,74,79,84,7777.82,2.00,https://futurestudents.yorku.ca/program/disaster-emergency-management
+M,York University,Drama and Creative Arts,The Arts,ENG4U,73,79,85,7777.82,2.00,https://futurestudents.yorku.ca/program/drama-and-creative-arts
+M,York University,Information Technology,Technology,ENG4U MCV4U MHF4U,74,79,84,7777.82,2.00,https://futurestudents.yorku.ca/program/information-technology
+M,York University,International Development Studies,Social Sciences,ENG4U MCV4U MHF4U,73,79,85,7777.82,2.00,https://futurestudents.yorku.ca/program/international-development-studies
+M,Wilfrid Laurier University,Data Science,Research-Based Science,ENG4U MHF4U MCV4U,83,82,81,7628.19,1.93,https://www.wlu.ca/programs/science/undergraduate/data-science-bsc/index.html
+M,Wilfrid Laurier University,Kinesiology and Physical Education,Physical Education,ENG4U SBI4U,83,80,77,7628.19,1.93,https://www.wlu.ca/programs/science/undergraduate/kinesiology-bkin/index.html
+M,York University,Environmental Arts and Justice,Social Sciences,ENG4U MHF4U 1/MCV4U/MDM4U,75,79,83,7777.82,1.93,https://futurestudents.yorku.ca/program/environmental-arts-justice
+M,York University,Film Production,The Arts,ENG4U,75,79,83,7777.82,1.93,https://futurestudents.yorku.ca/program/film-production
+M,York University,Human Resources Management,Social Sciences,ENG4U,78,79,80,7777.82,1.93,https://futurestudents.yorku.ca/program/human-resources-management
+M,York University,Indigenous Studies,Social Sciences,ENG4U,76,79,82,7777.82,1.93,https://futurestudents.yorku.ca/program/indigenous-studies
+M,York University,Music,The Arts,ENG4U,75,79,83,7777.82,1.93,https://futurestudents.yorku.ca/program/music
+M,Lakehead University,History,World Studies,ENG4U,70,78,86,7452.19,1.87,https://www.lakeheadu.ca/programs/undergraduate-programs/history/node/3600
+M,OCAD University,Environmental Design,Earth Science,ENG4U,70,78,86,7296.92,1.87,https://admissions.ocadu.ca/program/environmental-design
+M,University of Toronto,Actuarial Science,Research-Based Science,MCV4U ENG4U,70,84,98,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/physical-mathematical-sciences
+M,University of Toronto,Chemistry,Research-Based Science,MCV4U SCH4U ENG4U SPH4U,92,95,98,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/physical-mathematical-sciences
+M,University of Toronto,Education Studies,Teaching,ENG4U,70,84,98,6130.00,1.87,https://www.artsci.utoronto.ca/future/academic-opportunities/explore-our-programs
+M,University of Toronto,English,World Studies,ENG4U,71,85,99,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/humanities
+M,University of Toronto,Environment and Toxicology,Earth Science,MHF4U MCV4U SCH4U ENG4U SPH4U,75,89,100,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Environmental Biology,Earth Science,SBI4U MCV4U SCH4U ENG4U,78,89,100,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Environmental Chemistry,Earth Science,SBI4U MCV4U SCH4U ENG4U,77,89,100,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Environmental Geoscience,Earth Science,SBI4U MCV4U SCH4U ENG4U SPH4U,79,89,99,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Financial Economics,Earth Science,MCV4U ENG4U,75,89,100,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/physical-mathematical-sciences
+M,University of Toronto,French,World Studies,ENG4U,72,85,98,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/humanities
+M,University of Toronto,Geology,Earth Science,SBI4U MCV4U SCH4U ENG4U SPH4U,77,89,100,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/physical-mathematical-sciences
+M,University of Toronto,Philosophy,Social Sciences,ENG4U,70,85,100,6028.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/humanities
+M,University of Toronto,Physical and Environmental Geography,World Studies,MCV4U ENG4U,76,87,98,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Physics,Research-Based Science,MCV4U ENG4U SPH4U,94,97,100,6100.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/physical-mathematical-sciences
+M,University of Toronto,Political Science,Social Sciences,ENG4U,70,85,100,6028.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/social-sciences
+M,University of Toronto,Sociology,Social Sciences,ENG4U,71,85,99,6028.00,1.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/social-sciences
+M,University of Toronto,Sustainability Management,Earth Science,ENG4U,75,87,99,6100.00,1.87,https://www.utm.utoronto.ca/environment/academic-programs/environmental-management
+M,University of Toronto,Theatre - Drama and Performance Studies,The Arts,ENG4U,72,85,98,6100.00,1.87,https://www.utm.utoronto.ca/future-students/category/theatre-drama
+M,University of Toronto,Women's & Gender Studies,Social Sciences,ENG4U,70,85,100,6028.00,1.87,https://www.artsci.utoronto.ca/future/academic-opportunities/explore-our-programs
+M,University of Waterloo,Physics and Astronomy,Space Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,90,88,86,7443.92,1.87,https://uwaterloo.ca/future-students/programs/physics-and-astronomy
+M,Western University,Biochemistry,Medical Science,ENG4U MCV4U SBI4U SCH4U,82,90,98,6050.00,1.87,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,Western University,Digital Humanities,World Studies,ENG4U,80,91,100,6050.00,1.87,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html
+M,Western University,Medical Cell Biology,Medical Science,ENG4U MCV4U SBI4U SCH4U,82,92,100,6050.00,1.87,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,Western University,Medical Health Informatics,Medical Science,ENG4U MCV4U SBI4U SCH4U,80,90,100,6050.00,1.87,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,Western University,One Health,Medical Science,ENG4U MCV4U SBI4U SCH4U,82,92,100,6050.00,1.87,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,Western University,Pathology,Medical Science,ENG4U MCV4U SBI4U SCH4U,84,92,100,6050.00,1.87,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,Western University,Physiology & Pharmacology,Medical Science,ENG4U MCV4U SBI4U SCH4U,83,92,100,6050.00,1.87,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,OCAD University,Inclusive Design,Social Sciences,ENG4U,70,77,84,7296.92,1.80,https://admissions.ocadu.ca/program/indigenous-visual-culture
+M,University of Toronto,Anthropology,Research-Based Science,ENG4U,73,85,97,6100.00,1.80,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/social-sciences
+M,University of Toronto,Health Studies,Research-Based Science,ENG4U,70,83,96,6100.00,1.80,https://www.artsci.utoronto.ca/future/academic-opportunities/explore-our-programs
+M,University of Toronto,History,World Studies,ENG4U,73,85,97,6100.00,1.80,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/humanities
+M,University of Toronto,Human Geography,World Studies,ENG4U,74,85,96,6100.00,1.80,https://future.utoronto.ca/undergraduate-programs/geography-human/
+M,University of Toronto,Physical and Mathematical Sciences,Research-Based Science,MHF4U MCV4U ENG4U SPH4U,80,88,96,6100.00,1.80,https://utsc.utoronto.ca/admissions/programs/physical-mathematical-sciences
+M,Western University,Astronomy,Research-Based Science,ENG4U MCV4U 2/MHF4U/MDM4U/SBI4U/SCH4U/SPH4U/SES4U/ICS4U,84,90,96,6050.00,1.80,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html
+M,Western University,Classical Studies,The Arts,ENG4U,81,89,97,6050.00,1.80,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html
+M,Western University,Earth Sciences,Earth Science,ENG4U MCV4U 2/MHF4U/MDM4U/SBI4U/SCH4U/SPH4U/SES4U/ICS4U,86,91,96,6050.00,1.80,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html
+M,Western University,Health and Aging,Medical Science,ENG4U SBI4U,86,91,96,6050.00,1.80,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/health-sciences.html
+M,Western University,Interdisciplinary Medical Sciences,Medical Science,ENG4U MCV4U SBI4U SCH4U,84,90,96,6050.00,1.80,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,Western University,Medical Biophysics,Medical Science,ENG4U MCV4U SBI4U SCH4U,83,90,97,6050.00,1.80,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,Western University,Microbiology & Immunology,Medical Science,ENG4U MCV4U SBI4U SCH4U,84,90,96,6050.00,1.80,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,Western University,Neuroscience,Medical Science,ENG4U MCV4U SBI4U SCH4U,83,90,97,6050.00,1.80,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html
+M,University of Toronto,Biological Chemistry,Research-Based Science,SBI4U MCV4U SCH4U ENG4U SPH4U,84,89,94,6100.00,1.73,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Planetary Science,Space Science,MCV4U SCH4U ENG4U SPH4U,84,89,94,6100.00,1.73,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/physical-mathematical-sciences
+M,University of Waterloo,Physics,Research-Based Science,ENG4U MHF4U MCV4U 2/SPH4U/SCH4U/MDM4U,93,88,83,7443.92,1.73,https://uwaterloo.ca/future-students/programs/physics
+M,Western University,Statistical & Actuarial Science,Research-Based Science,ENG4U MCV4U 2/MHF4U/MDM4U/SBI4U/SCH4U/SPH4U/SES4U/ICS4U,85,90,95,6050.00,1.73,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html
+M,Western University,Biology,Research-Based Science,ENG4U MCV4U SBI4U 2/MHF4U/MDM4U/SCH4U/SPH4U/SES4U/ICS4U,86,90,94,6050.00,1.73,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html
+M,Western University,Health Sciences,Medical Science,ENG4U SBI4U,87,91,95,6050.00,1.73,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/health-sciences.html
+M,Trent University,Kinesiology,Research-Based Science,ENG4U SBI4U SCH4U 1/MHF4U/MCV4U/MDM4U,70,81,92,6118.48,1.67,https://www.trentu.ca/futurestudents/futurestudents/degree/kinesiology?target=undergraduate
+M,University of Toronto,Bioinformatics and Computational Biology,Research-Based Science,SBI4U MCV4U SCH4U ENG4U,85,89,93,6100.00,1.67,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Physiology,Research-Based Science,SBI4U MCV4U SCH4U ENG4U,85,89,93,6100.00,1.67,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Public Policies,Social Sciences,MCV4U ENG4U,78,85,92,6028.00,1.67,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/social-sciences
+M,Western University,Chemistry,Research-Based Science,ENG4U MCV4U 2/MHF4U/MDM4U/SBI4U/SCH4U/SPH4U/SES4U/ICS4U,85,89,93,6050.00,1.67,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html
+M,Western University,Philosophy,The Arts,ENG4U,82,87,92,6000.00,1.67,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html
+M,Western University,Sport Management,Health & Physical Education,ENG4U SBI4U,86,89,92,6050.00,1.67,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/kinesiology.html
+M,Trent University,Arts & Science,The Arts,ENG4U,70,80,90,6118.48,1.60,https://www.trentu.ca/futurestudents/degree/arts-science?target=undergraduate&gclid=CjwKCAiAksyNBhAPEiwAlDBeLBq2AZhJWz_Nr4OzW16X37S7d_EiZQ6B8VmGsvZX7rTXzAkdRzRkyRoCPZ0QAvD_BwE
+M,Trent University,Information Systems,Technology,ENG4U,70,80,90,6118.48,1.60,https://www.trentu.ca/futurestudents/futurestudents/degree/information-systems?target=undergraduate
+M,University of Toronto,Psychology,Social Sciences,SBI4U MCV4U ENG4U,80,85,90,6028.00,1.60,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,Trent University,Anthropology,Research-Based Science,MHF4U 1/MCV4U/MDM4U,73,81,89,6118.48,1.53,https://www.trentu.ca/futurestudents/degree/anthropology?target=undergraduate
+M,Trent University,Business Administration,Business,ENG4U 1/MHF4U/MCV4U/MDM4U,70,79,88,6118.48,1.53,https://www.trentu.ca/futurestudents/degree/business-administration?target=undergraduate
+M,Trent University,Environmental Science,Earth Science,ENG4U,71,80,89,6118.48,1.53,https://www.trentu.ca/futurestudents/degree/environmental-science-studies?target=undergraduate
+M,Trent University,Philosophy,Social Sciences,ENG4U,72,80,88,6118.48,1.53,https://www.trentu.ca/futurestudents/futurestudents/degree/philosophy?target=undergraduate
+M,Trent University,Water Sciences,Earth Science,1/MHF4U/MCV4U/MDM4U,74,81,88,6118.48,1.53,https://www.trentu.ca/futurestudents/futurestudents/degree/water-sciences?target=undergraduate
+M,Ryerson University,International Economics and Finance - Co-op,Business,ENG4U 1/MCV4U/MHF4U ,68,83,98,18740.58,1.47,https://www.ryerson.ca/programs/undergraduate/international-economics-finance/
+M,Trent University,Biology,Research-Based Science,SBI4U SCH4U,75,81,87,6118.48,1.47,https://www.trentu.ca/futurestudents/degree/biology?target=undergraduate
+M,Trent University,Conservation Biology Co-op,Research-Based Science,ENG4U MHF4U MCV4U SCH4U SBI4U,75,81,87,6118.48,1.47,https://www.trentu.ca/futurestudents/degree/conservation-biology?target=undergraduate
+M,Trent University,Data Science,Research-Based Science,ENG4U MHF4U 1/MCV4U/MDM4U,76,81,86,6118.48,1.47,https://www.trentu.ca/futurestudents/degree/data-science-bsc?target=undergraduate
+M,Trent University,Economics,Business,ENG4U 1/MHF4U/MCV4U/MDM4U,72,79,86,6118.48,1.47,https://www.trentu.ca/futurestudents/degree/economics?target=undergraduate
+M,Trent University,History,World Studies,ENG4U,73,80,87,6118.48,1.47,https://www.trentu.ca/history/programs/undergraduate/admissions
+M,Trent University,Physics,Research-Based Science,1/MHF4U/MCV4U,76,81,86,6118.48,1.47,https://www.trentu.ca/futurestudents/futurestudents/degree/physics?target=undergraduate
+M,Ryerson University,Retail Management,Business,ENG4U MCV4U,70,83,96,18740.58,1.40,https://www.ryerson.ca/programs/undergraduate/retail-management/
+M,Trent University,Chemical Physics,Research-Based Science,SCH4U SPH4U 1/MHF4U/MCV4U,77,81,85,6118.48,1.40,https://www.trentu.ca/futurestudents/degree/chemical-physics?target=undergraduate
+M,Trent University,Forensic Biology,Research-Based Science,ENG4U SBI4U SCH4U 1/MHF4U/MCV4U,78,81,84,6118.48,1.40,https://www.trentu.ca/futurestudents/degree/forensic-biology?target=undergraduate
+M,Trent University,Forensic Chemistry,Research-Based Science,ENG4U SBI4U SCH4U 1/MHF4U/MCV4U,78,81,84,6118.48,1.40,https://www.trentu.ca/futurestudents/degree/forensic-chemistry?target=undergraduate
+M,Trent University,Forensic Science,Research-Based Science,ENG4U SBI4U SCH4U 1/MHF4U/MCV4U,78,81,84,6118.48,1.40,https://www.trentu.ca/futurestudents/futurestudents/degree/forensic-science?target=undergraduate
+M,Queen's University,Statistics,Business,ENG4U MCV4U MHF4U,82,86,90,18740.58,1.20,https://www.queensu.ca/mathstat/
+M,University of Toronto,Environment and Health,Medical,SBI4U MCV4U SCH4U ENG4U,74,89,100,23090.00,1.07,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Molecular Biology & Biotechnology,Medical Science,MHF4U SBI4U MCV4U SCH4U ENG4U,88,94,100,23090.00,1.07,https://utsc.utoronto.ca/admissions/programs/molecular-biology-biotechnology
+M,University of Toronto,Pathobiology,Medical Science,SBI4U MCV4U SCH4U ENG4U,88,95,100,23090.00,1.07,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Biomedical Toxicology,Medical Science,SBI4U MCV4U SCH4U ENG4U SPH4U,81,89,97,23090.00,1.00,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Neuroscience,Medical Science,SBI4U MCV4U SCH4U ENG4U,93,95,97,23090.00,1.00,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+M,University of Toronto,Pharmacology and Biomedical Toxicology,Medical Science,SBI4U MCV4U SCH4U ENG4U,85,89,93,23090.00,0.87,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/life-sciences
+T,Carleton University,Software Engineering,Coding,MHF4U SCH4U SPH4U 1/SBI4U/MCV4U/SES4U,80,90,100,12887.01,5.00,https://admissions.carleton.ca/programs/engineering/
+T,McMaster University,Software Engineering,Coding,ENG4U MCV4U SCH4U SPH4U,87,93,99,15231.61,5.00,https://future.mcmaster.ca/programs/bachelor-of-technology/
+T,University of Toronto,Computer Science,Coding,MHF4U MCV4U ENG4U ,80,90,100,11420.00,5.00,https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science
+T,University of Waterloo,Computer Science,Coding,ENG4U MHF4U MCV4U,85,97,100,14551.92,5.00,https://uwaterloo.ca/future-students/programs/computer-science
+T,York University,Software Engineering,Coding,ENG4U MHF4U MCV4U SCH4U SPH4U,80,95,100,10328.72,5.00,https://futurestudents.yorku.ca/program/software-engineering
+T,Laurentian University,Computer Science,Coding,ENG4U MHF4U 1/MCV4U/MDM4U,70,83,96,9078.65,4.94,https://laurentian.ca/program/computer-science
+T,Lakehead University,Software Engineering,Coding,ENG4U MHF4U,70,82,94,9660.39,4.89,https://www.lakeheadu.ca/programs/undergraduate-programs/engineering-software/node/3575
+T,Carleton University,Computer Science,Coding,MHF4U MCV4U,88,90,92,11257.01,4.83,https://admissions.carleton.ca/programs/computer-science/
+T,Queen's University,Computer Science,Coding,ENG4U MHF4U MCV4U,88,94,100,7928.36,4.83,https://www.cs.queensu.ca/
+T,Wilfrid Laurier University,Computer Science,Coding,ENG4U MHF4U,78,90,100,7884.87,4.83,https://www.wlu.ca/programs/science/undergraduate/computer-science-ba/index.html
